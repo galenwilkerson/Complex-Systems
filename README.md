@@ -1,6 +1,6 @@
 # Complex-Systems
 
-Here are some notebooks exploring models and phenomena occuring in Complex Systems.
+Here are some jupyter python 3 notebooks exploring models and phenomena occuring in Complex Systems.
 
 The first is the sandpile model, appearing in:
 
